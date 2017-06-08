@@ -8,7 +8,7 @@ Configuration
 
 **data/hosts.yaml**
 In data/hosts.yaml you need to provide the list of devices you want to pull information from
-For each device, you need to indicate the name ane one or multiple *tags* (at least one).
+For each device, you need to indicate the name and one or multiple *tags* (at least one).
 Tags will be used later to know which credentials should be used for this device and which commands need to be executed
 
 .. code-block:: yaml
